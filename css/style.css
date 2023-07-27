@@ -324,10 +324,20 @@ nav ul li a {
 /*   Services
 /*-----------------------------------------------------------------------------------*/
 
+#services-tag {
+  background: #f7f7f7;
+  position: relative;
+  padding-bottom: 80px;
+}
+
 #services {
   background: #f7f7f7;
   position: relative;
   padding-bottom: 80px;
+}
+
+.gap-top {
+  padding-top: 80px;
 }
 
 .owl-item {
@@ -355,7 +365,6 @@ nav ul li a {
   color: #b8a07e;
   line-height: 44px;
 }
-
 
 .services-carousel  .owl-stage-outer {
   overflow: hidden;
